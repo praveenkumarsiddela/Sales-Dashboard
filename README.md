@@ -25,7 +25,7 @@ The Sales Dashboard project provides an interactive and comprehensive dashboard 
 3. Import the `db_dump_version_2.sql` file into your SQL database.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 Praveen Kumar Siddela  
