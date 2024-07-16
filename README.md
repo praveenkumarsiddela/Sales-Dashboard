@@ -31,3 +31,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 Praveen Kumar Siddela  
 - Email: [praveenkumarsiddelaasu@gmail.com](mailto:praveenkumarsiddelaasu@gmail.com)  
 - LinkedIn: [Praveen Kumar Siddela](https://www.linkedin.com/in/praveenkumarsiddela/)
+- Portfolio: [Praveen's Portfolio](https://praveenkumarsiddela.github.io/OnlineCV/)
